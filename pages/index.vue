@@ -5,7 +5,7 @@
     >
       <div class="mt-20 px-5">
         <div class="text-3xl font-bold leading-6 text-[#00DC82]">
-          Hii, Sridharan
+          Hii, Revathi
         </div>
 
         <div class="mt-10 text-xl font-bold leading-5 text-white">
