@@ -1,5 +1,5 @@
 <template>
-  <div class="h-full bg-slate-200 flex items-center justify-center px-2">
+  <div class="h-screen bg-slate-200 flex items-center justify-center px-2">
     <div
       class="bg-gray-900 border border-slate-200 h-[400px] shadow-2xl w-[350px] rounded-tl-2xl rounded-tr-[100px] rounded-br-2xl rounded-bl-3xl"
     >
