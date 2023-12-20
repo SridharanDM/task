@@ -22,7 +22,7 @@
       </div>
       <div class="mt-10">
         <img
-          src="/WhatsApp Image 2023-12-20 at 10.10.44 AM.jpeg"
+          src="/WhatsApp Image 2023-12-20 at 3.42.40 PM.jpeg"
           alt=""
           class="rounded-xl md:w-[400px] md:mx-auto md:rounded-2xl"
         />
