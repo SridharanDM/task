@@ -1,6 +1,7 @@
 <template>
-  <div class="h-screen bg-[#111928]">
-    <div class="px-5 pt-16">
+  <div class="h-screen bg-[#111928] relative">
+    <div class="absolute right-0 "> <img src="https://chitti.app/new/dna.svg" alt="" class="z-50 opacity-50 h-60 w-60 rounded-2xl "></div>
+    <div class="z-0 px-5 pt-16">
       <div class="text-3xl font-bold leading-6 text-white">
         Here is your 3rd task
       </div>
