@@ -33,7 +33,7 @@ export default {
   },
   computed: {
     isValidPassword() {
-      return this.password === "saithane ulla poo";
+      return this.password === "JEE BOOM BAA";
     },
   },
   methods: {
